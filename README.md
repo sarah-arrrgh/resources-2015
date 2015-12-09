@@ -20,6 +20,7 @@
 ## Other
 
 ### Flexbox
+* [Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox froggy](http://flexboxfroggy.com/)
 
 ### Markdown
