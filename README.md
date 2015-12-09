@@ -1,17 +1,19 @@
 # Resources
 
 ## JavaScript
-[ES6 overview in 350 bullet points](https://ponyfoo.com/articles/es6)
+* [ES6 overview in 350 bullet points](https://ponyfoo.com/articles/es6)
 
 ### React.js
-[Egghead.io tutorials](https://egghead.io/technologies/react) - used these for final project, found them super useful.
+* [Egghead.io tutorials](https://egghead.io/technologies/react) - used these for final project, found them super useful.
+* [React.js - Getting started and concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 
 ### Redux
 * [Full stack redux tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html), recommended by Dan
 
 ### Ember.js
 * [Ember.js 2.0 tutorial](http://www.yoember.com/) from Zoltan's meetup page
-* [Ember CLI](http://ember-cli.com/) is the Ember.js command line utility that provides a fast Broccoli-powered asset pipeline, a strong conventional project structure, and a powerful addon system for extension. 
+* [Ember CLI](http://ember-cli.com/) is the Ember.js command line utility that provides a fast Broccoli-powered asset pipeline, a strong conventional project structure, and a powerful addon system for extension.
+* [Ember.js fundamentals video](https://www.youtube.com/watch?v=53OpEYA4zPQ)
 
 ## Ruby / Rails
 
