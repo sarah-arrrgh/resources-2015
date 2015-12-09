@@ -1,8 +1,10 @@
 # Resources
 
 ## JavaScript
+[ES6 overview in 350 bullet points](https://ponyfoo.com/articles/es6)
 
 ### React.js
+[Egghead.io tutorials](https://egghead.io/technologies/react) - used these for final project, found them super useful.
 
 ### Redux
 * [Full stack redux tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html), recommended by Dan
@@ -20,7 +22,7 @@
 
 ### Markdown
 
-*  (https://daringfireball.net/projects/markdown/syntax)
+*  [Markdown syntax](https://daringfireball.net/projects/markdown/syntax)
 
 ## EDA
 
