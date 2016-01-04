@@ -27,6 +27,10 @@
 
 *  [Markdown syntax](https://daringfireball.net/projects/markdown/syntax)
 
+## Planning / UX
+
+* [Draw.io](https://www.draw.io/) - online flow chart/diagram tool
+
 ## EDA
 
 * [Look through all this stuff](https://github.com/ahdinosaur/craftworks-todomvc)
