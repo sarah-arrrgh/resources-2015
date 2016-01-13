@@ -22,6 +22,7 @@
 ### Flexbox
 * [Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox froggy](http://flexboxfroggy.com/)
+* [Visual guide to Flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
 ### Markdown
 
