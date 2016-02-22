@@ -2,6 +2,7 @@
 
 ## JavaScript
 * [ES6 overview in 350 bullet points](https://ponyfoo.com/articles/es6)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ### React.js
 * [Egghead.io tutorials](https://egghead.io/technologies/react) - used these for final project, found them super useful.
@@ -18,6 +19,7 @@
 ## Ruby / Rails
 
 ## Other
+* [fzf Command-Line Fuzzy Finder](https://github.com/junegunn/fzf)
 
 ### Flexbox
 * [Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
